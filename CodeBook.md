@@ -1,6 +1,6 @@
 #This is my code book for tidy_dataset.txt
 
-##Variables and units:
+##Variables and units-->(all normalized over their range):
 	  "tBodyAcc-mean()-X"
 	  "tBodyAcc-mean()-Y"
 	  "tBodyAcc-mean()-Z"
